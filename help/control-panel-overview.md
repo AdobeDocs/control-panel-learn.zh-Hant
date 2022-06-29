@@ -1,0 +1,83 @@
+---
+title: 控制面板 - 概觀
+description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
+landing-page-description: 「控制面板」可讓 Campaign 管理員監視重要資產並執行管理任務，例如依執行個體管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
+feature: Control Panel
+doc-type: feature video
+activity: use
+team: PM
+role: Admin
+level: Experienced
+exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
+source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+# 控制面板 - 概觀
+
+Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
+
+## 新增功能
+
+* **[監視工作流程](/help/performance-monitoring/monitor-workflows.md)**
+
+   *瞭解如何監視工作流的臨時儲存使用情況以及配置工作流設定以避免實例上出現資料庫或工作流問題的位置。*
+
+* **[監視吞吐量和延遲](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+
+   *瞭解如何監控活動實例的傳遞吞吐量和事務性消息延遲。*
+
+請參閱最新產品發行的[版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)以獲得更多資訊。
+
+## 員工精選
+
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="將子網域委派至 Adobe Campaign（影片）" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>將子網域委派至 Adobe Campaign（影片）</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解如何將子網域完全委派至 Adobe Campaign</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Google TXT 記錄管理（影片）" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Google TXT 記錄管理（影片）</strong>
+    </a>
+    </div>
+    <p>
+    <em>您可以透過 Campaign 控制面板，將 Google TXT 網站驗證記錄新增至所有用於傳送電子郵件至 Gmail 地址的子網域。</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="連接到 SFTP 伺服器" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>連結到 SFTP 伺服器</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
+    <p>
+  </td>
+</tr>
+</table>
+
+## 其他資源
+
+* [控制面板說明中心](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)
