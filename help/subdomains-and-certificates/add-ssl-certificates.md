@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 38%
 
 ---
 
@@ -44,6 +44,18 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 *產生憑證申請檔 (02:36分鐘)*
 
+>[!NOTE]
+>
+>對CSR生成過程進行了幾項改進：
+>
+>* 生成CSR時，現在可以選擇包含的子域之一作為「公用名稱」。
+>* 現在，在生成CSR之前，可以複製CSR摘要。
+>* 生成CSR後，可以從作業日誌中再次下載。 此功能不適用於此版本之前生成的證書。
+>
+>![下載CSR](/help/assets/download-csr.gif)
+>
+>查看 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 來瞭解更多資訊。
+
 ### 2. 購買 SSL 憑證
 
 獲得CSR後，您必須從組織批准的證書頒發機構購買SSL證書。
@@ -57,3 +69,5 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *安裝 SSL 憑證 (01:25分鐘)*
+
+
