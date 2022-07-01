@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d8e46d229f689ce3d2f6dd7bcf52c6c7eefaf4be
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 81%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 + [控制面板](/help/control-panel-overview.md)
 + [開始使用控制面板](/help/get-started-with-control-panel.md)
++ [用於混合主機模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 管理{#sftp-management}
    + [監視伺服器容量](/help/sftp-management/monitor-server-capacity.md)
    + [允許清單IP範圍](/help/sftp-management/allowlist-ip-range.md)
