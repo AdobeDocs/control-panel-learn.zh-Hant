@@ -1,6 +1,6 @@
 ---
-title: 用於Adobe Campaign混合主機模型的控制面板
-description: 瞭解如何為混合托管模型啟用控制面板、訪問控制面板和解鎖關鍵功能。
+title: 用於 Adobe Campaign 混合託管模型的控制面板
+description: 瞭解如何為混合託管模型啟用控制面板、存取控制面板並解鎖主要功能。
 feature: Control Panel
 kt: 10483
 thumbnail: 344502.jpg
@@ -9,18 +9,18 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 12080c860dd3102389e6cbe9a15fa273f0f80ccb
-workflow-type: tm+mt
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
+source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 混合託管模型的控制面板
 
-# 用於混合主機模型的控制面板
-
-瞭解如何為Adobe Campaign混合托管模型啟用控制面板、訪問控制面板和解鎖關鍵功能。
+瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板並解鎖主要功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-有關詳細資訊，請參見 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html)。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=zh-Hant)。
