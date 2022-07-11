@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 
 ## 新增功能
 
-* **[用於混合主機模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[混合託管模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *瞭解如何為Adobe Campaign混合托管模型啟用控制面板、訪問控制面板和解鎖關鍵功能。*
+   *瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板和解鎖關鍵功能。*
 
 * **[監視工作流程](/help/performance-monitoring/monitor-workflows.md)**
 
-   *瞭解如何監視工作流的臨時儲存使用情況以及配置工作流設定以避免實例上出現資料庫或工作流問題的位置。*
+   *瞭解如何監視工作流程的臨時儲存使用情況，以及設定工作流程設定的位置，以避免執行個體上出現資料庫或工作流程問題。*
 
-* **[監視吞吐量和延遲](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[監視輸送量和延遲](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *瞭解如何監控活動實例的傳遞吞吐量和事務性消息延遲。*
+   *瞭解如何監視活動執行個體的傳遞輸送量和異動訊息延遲。*
 
 請參閱最新產品發行的[版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)以獲得更多資訊。
 
