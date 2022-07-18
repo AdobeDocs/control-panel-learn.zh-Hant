@@ -11,8 +11,8 @@ level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 **該做什麼：**
 使用者需要找到其 IMS Org ID (xxx)。系統管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔「Campaign-xxx-Admins」。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
-### 症狀：使用者看不到 experience Cloud 首頁存取 [!UICONTROL Control Panel] 的連結
+### 症狀：使用者看不到 Experience Cloud 首頁存取 [!UICONTROL Control Panel] 的連結
 
 **原因：**
 使用者直到新增為產品設定檔 _Campaign-xxx-Administrators/Admin_ 的使用者後，才能看到連結。
