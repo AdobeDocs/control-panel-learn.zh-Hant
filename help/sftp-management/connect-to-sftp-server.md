@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '149'
+ht-degree: 100%
 
 ---
 
-# 連接到SFTP伺服器
+# 連線到 SFTP 伺服器
 
 ## 存取控制面板 SFTP 管理
 
