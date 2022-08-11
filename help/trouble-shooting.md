@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 ### 實用文件
 
 * [探索「控制面板」](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)
-* [管理 [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) 的權限
+* [管理 [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) 的權限
 
 ## 建立與 SFTP 伺服器（用戶端或 API）的連線
 
@@ -66,4 +66,4 @@ ht-degree: 100%
 
 ### 實用文件 {#helpful-docs}
 
-* [登入您的 SFTP 伺服器](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [登入您的 SFTP 伺服器](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)
