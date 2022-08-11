@@ -12,18 +12,18 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '196'
+ht-degree: 100%
 
 ---
 
 # 開始使用 [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> 對於 Campaign v7，則套用部署限制。 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> 對於 Campaign v7，則套用部署限制。 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hant#v7-restrictions)
 
-[!UICONTROL Control Panel] 允許Adobe Campaign管理員監視關鍵資產並執行管理任務，如管理 [!DNL SFTP] 按實例儲存，管理 [!DNL GPG] 鍵或 [!UICONTROL subdomains] 和 [!UICONTROL certificates]。
+[!UICONTROL Control Panel]可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL subdomains]及[!UICONTROL certificates]。
 
 本文說明如何存取控制面板，以及使用控制面板的先決條件。
 
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-[瞭解更多資訊](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel) 關於管理權限。
+針對管理權限[瞭解更多資訊](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel)。
 
-查看 [控制面板幫助中心](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant) 以獲取其他資源。
+查看[控制面板說明中心](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)以取得其他資源。
