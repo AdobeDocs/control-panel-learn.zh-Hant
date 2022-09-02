@@ -1,6 +1,6 @@
 ---
-title: 添加SSL證書
-description: 瞭解如何添加SSL證書以保護子域的安全。
+title: 新增SSL憑證
+description: 了解如何新增SSL憑證來保護您的子網域。
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -13,11 +13,11 @@ exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 38%
+ht-degree: 58%
 
 ---
 
-# 添加SSL證書
+# 新增SSL憑證
 
 Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保護您的子網域。
 
@@ -36,7 +36,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 ### 1. 產生憑證申請檔
 
-購買SSL證書需要證書籤名請求(CSR)。 必須為您計畫保護的實例和子域生成它。
+購買SSL憑證時需要憑證簽署要求(CSR)。 必須為您打算保護的執行個體和子網域產生。
 
 以下影片說明如何在「控制面板」產生「憑證申請檔」。
 
@@ -46,23 +46,23 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 >[!NOTE]
 >
->對CSR生成過程進行了幾項改進：
+>CSR產生程式已有幾項增強功能：
 >
->* 生成CSR時，現在可以選擇包含的子域之一作為「公用名稱」。
->* 現在，在生成CSR之前，可以複製CSR摘要。
->* 生成CSR後，可以從作業日誌中再次下載。 此功能不適用於此版本之前生成的證書。
+>* 產生 CSR 時，現在可以選擇所包含的子網域中之一作為「一般名稱」。
+>* 現在產生 CSR 之前，可以複製 CSR 摘要。
+>* 產生 CSR 之後，可以從作業記錄中重新下載。 此功能不適用於此版本之前產生的憑證。
 >
 >![下載CSR](/help/assets/download-csr.gif)
 >
->查看 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 來瞭解更多資訊。
+>請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 了解更多。
 
 ### 2. 購買 SSL 憑證
 
-獲得CSR後，您必須從組織批准的證書頒發機構購買SSL證書。
+取得CSR後，您必須向貴組織核准的憑證機構購買SSL憑證。
 
 ### 3. 安裝 SSL 憑證
 
-獲得SSL證書後，必須為您計畫保護的子域安裝該證書。
+取得SSL憑證後，就必須為您打算保護的子網域安裝SSL憑證。
 
 以下影片說明如何在 [!UICONTROL Control Panel] 安裝 SSL 憑證。
 

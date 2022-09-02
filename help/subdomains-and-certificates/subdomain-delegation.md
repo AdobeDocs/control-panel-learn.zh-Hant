@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 86%
 
 ---
 
@@ -37,4 +37,4 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派�
 
 *子網域委派（05:07 分鐘）*
 
-有關續訂子域的SSL證書的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hant)。
+如需子網域SSL憑證續約的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hant).
