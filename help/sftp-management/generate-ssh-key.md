@@ -2,7 +2,7 @@
 title: 產生 SSH 金鑰
 description: 瞭解如何使用終端產生 SSH 金鑰，以及如何在「控制面板」中儲存公開版本的金鑰。
 feature: Control Panel
-kt: 6348
+kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 82%
