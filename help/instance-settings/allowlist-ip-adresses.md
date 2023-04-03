@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 62%
@@ -36,6 +36,6 @@ ht-degree: 62%
 
 了解如何將IP範圍新增至Adobe Campaign執行個體的允許清單，以及如何使用控制面板從允許清單中移除這些範圍。
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
 如需IP的詳細資訊，請允許清單，請參閱 [詳細產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hant).

@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 瞭解如何為 Adobe Campaign 混合託管模型啟用控制面板、存取控制面板並解鎖主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=zh-Hant)。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html)。
