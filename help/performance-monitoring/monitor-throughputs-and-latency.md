@@ -11,8 +11,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344310/?quality=12&learn=0n)
 
 ## 額外資源
 
