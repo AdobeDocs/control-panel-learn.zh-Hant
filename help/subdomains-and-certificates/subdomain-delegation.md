@@ -37,4 +37,4 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派�
 
 *子網域委派（05:07 分鐘）*
 
-如需子網域SSL憑證續約的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hant).
+有關續訂子域的SSL證書的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hant)。

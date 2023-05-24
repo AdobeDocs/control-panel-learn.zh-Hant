@@ -25,6 +25,6 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12&learn=0n)
 
-## Adobe Campaign V7/V8
+## Adobe CampaignV7/V8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12&learn=0n)
