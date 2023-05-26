@@ -19,12 +19,12 @@ ht-degree: 63%
 
 # 使用 GPG 金鑰加密資料
 
-瞭解如何使用控制面板上安裝的GPG密鑰導出資料
+瞭解如何使用安裝於控制面板的GPG金鑰匯出資料
 
 ## Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12&learn=0n)
 
-## Adobe CampaignV7/V8
+## Adobe Campaign V7/V8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12&learn=0n)

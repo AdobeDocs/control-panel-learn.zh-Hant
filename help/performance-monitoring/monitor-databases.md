@@ -20,10 +20,10 @@ ht-degree: 43%
 
 # 監視資料庫
 
-您的所有 Campaign 執行個體資產、工作流程和資料都儲存在資料庫中。達到最大容量的資料庫可能會導致實例出現問題（無法登錄、發送電子郵件等）。 因此，必須定期監視執行個體的資料庫，以確保最佳效能。
+您的所有 Campaign 執行個體資產、工作流程和資料都儲存在資料庫中。若資料庫達到其最大容量，可能會導致您的執行個體發生問題（無法登入、傳送電子郵件等）。 因此，必須定期監視執行個體的資料庫，以確保最佳效能。
 
-瞭解如何使用 [!DNL Control Panel]。
+瞭解如何透過監控執行個體的資料庫使用情況 [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
-有關資料庫監視的詳細資訊，請參閱 [產品文檔](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en)。
+如需資料庫監控的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
