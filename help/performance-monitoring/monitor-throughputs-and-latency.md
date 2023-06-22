@@ -2,7 +2,7 @@
 title: 監視輸送量和延遲
 description: 瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。
 feature: Control Panel
-kt: 10526
+jira: KT-10526
 thumbnail: 344310.jpg
 doc-type: feature video
 audience: administrator
@@ -11,9 +11,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
-source-wordcount: '99'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
