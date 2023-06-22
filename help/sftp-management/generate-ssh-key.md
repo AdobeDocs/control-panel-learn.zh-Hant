@@ -2,7 +2,7 @@
 title: 產生 SSH 金鑰
 description: 瞭解如何使用終端產生 SSH 金鑰，以及如何在「控制面板」中儲存公開版本的金鑰。
 feature: Control Panel
-kt: 2923
+jira: KT-2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 82%
@@ -27,7 +27,7 @@ ht-degree: 82%
 
 * [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **控制面板** 卡片 > **SFTP 卡**
 
-   或
+  或
 * 直接從 URL：[http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
 ## 如何產生 SSH 金鑰
