@@ -2,7 +2,7 @@
 title: 開始使用控制面板
 description: 瞭解如何存取控制面板，以及使用控制面板的先決條件。
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
@@ -33,10 +33,10 @@ ht-degree: 100%
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
-   或
+  或
 * **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]：**Campaign** > **[!UICONTROL Control Panel]卡片**
 
-   或
+  或
 
 * 直接從 URL：[https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
