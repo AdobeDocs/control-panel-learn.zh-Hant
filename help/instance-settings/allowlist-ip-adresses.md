@@ -2,7 +2,7 @@
 title: 加入允許清單 IP 位址
 description: 瞭解如何在 Adobe Campaign 執行個體的允許清單中新增 IP 範圍，以及如何使用控制面板從允許清單中移除這些 IP 範圍。
 feature: Control Panel
-kt: 3479
+jira: KT-3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '182'
 ht-degree: 100%
