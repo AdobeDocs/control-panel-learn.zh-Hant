@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 69%
+source-wordcount: '51'
+ht-degree: 66%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 69%
 
 瞭解如何從您的 [!DNL Adobe Campaign] 執行個體建立與外部 URL 的連線。
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
 如需詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).

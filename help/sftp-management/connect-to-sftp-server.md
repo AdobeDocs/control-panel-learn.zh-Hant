@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 98%
 
 ---
 
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 此影片說明如何使用用戶端 SFTP 應用程式，使用您儲存在「控制面板」的金鑰，連線至您的 SFTP 伺服器。
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}

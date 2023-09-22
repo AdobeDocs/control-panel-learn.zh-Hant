@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 100%
+source-wordcount: '273'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 以下影片說明如何在「控制面板」產生「憑證申請檔」。
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *產生憑證申請檔 (02:36分鐘)*
 
@@ -67,7 +67,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可以讓您新增 SSL 憑證，以保
 
 以下影片說明如何在 [!UICONTROL Control Panel] 安裝 SSL 憑證。
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *安裝 SSL 憑證 (01:25分鐘)*
 
