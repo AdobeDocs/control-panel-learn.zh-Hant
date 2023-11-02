@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 98%
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 98%
 
 若要存取「控制面板」的「子網域管理」，請前往：
 
-* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **[!UICONTROL Control Panel]** 卡片 > **執行個體設定卡片**
-或
+* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]** 卡片 > **執行個體設定** 卡片
+or
 * 直接從 URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## 將 IP 範圍新增至執行個體的允許清單

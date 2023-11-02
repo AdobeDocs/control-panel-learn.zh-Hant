@@ -12,21 +12,20 @@ level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 98%
+source-wordcount: '109'
+ht-degree: 76%
 
 ---
 
 # 完全子網域委派
 
-Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
+Adobe Campaign [!UICONTROL 控制面板] 可讓您將子網域完全委派給Adobe Campaign。
 
-## 存取 [!UICONTROL Control Panel] 子網域管理
+## 存取[!UICONTROL 控制面板]子網域管理
 
-若要 [!UICONTROL Control Panel] 存取子網域管理，請前往：
+若要存取[!UICONTROL 控制面板]的「子網域管理」，請前往：
 
-* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **[!UICONTROL Control Panel]** 卡片 > **子網域與憑證**卡片
-或
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]** 卡片> **子網域和憑證** 卡片或
 * 直接從 URL：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 如何委派子網域
