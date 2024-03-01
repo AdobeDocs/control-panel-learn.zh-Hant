@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign 控制面板教學課程
+user-guide-title: Adobe Campaign控制面板教學課程
 user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaign 執行個體的主要資產以及執行管理任務。
 breadcrumb-title: 控制面板教學課程
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
+source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign 控制面板 — 教學課程 {#tutorials}
+# Adobe Campaign控制面板教學課程 {#tutorials}
 
-+ [控制面板](/help/control-panel-overview.md)
++ [控制面板教學課程](/help/control-panel-overview.md)
 + [開始使用控制面板](/help/get-started-with-control-panel.md)
 + [混合託管模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 管理{#sftp-management}
