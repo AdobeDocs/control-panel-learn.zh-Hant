@@ -1,5 +1,5 @@
 ---
-title: 控制面板 - 概觀
+title: 控制面板教學課程
 description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
 landing-page-description: 「控制面板」可讓 Campaign 管理員監視重要資產並執行管理任務，例如依執行個體管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
 short-description: 行銷活動管理員可以使用「控制面板」監視重要資產並執行管理任務，例如依執行個體管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
@@ -10,14 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
-workflow-type: ht
+source-git-commit: b69a12670fb996537c3f8230b6d98be88f6eccb0
+workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
-# 控制面板 - 概觀
+# 控制面板教學課程
 
 Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
 
