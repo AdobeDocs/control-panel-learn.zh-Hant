@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign控制面板教學課程
+user-guide-title: Adobe Campaign 控制面板教學課程
 user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaign 執行個體的主要資產以及執行管理任務。
 breadcrumb-title: 控制面板教學課程
 index: true
@@ -8,10 +8,10 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
