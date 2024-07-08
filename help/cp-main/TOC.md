@@ -9,14 +9,14 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign控制面板教學課程 {#tutorials}
+# Adobe Campaign 控制面板教學課程 {#tutorials}
 
 + [控制面板教學課程](/help/control-panel-overview.md)
 + [開始使用控制面板](/help/get-started-with-control-panel.md)
