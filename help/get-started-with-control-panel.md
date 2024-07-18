@@ -13,17 +13,17 @@ recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 87%
+source-wordcount: '193'
+ht-degree: 83%
 
 ---
 
-# 開始使用 [!UICONTROL 控制面板] {#control-panel}
+# 開始使用[!UICONTROL 控制面板] {#control-panel}
 
 >[!CAUTION]
 > 對於 Campaign v7，則套用部署限制。 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hant#v7-restrictions)
 
-[!UICONTROL 控制面板] 可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如管理 [!DNL SFTP] 依執行個體儲存，管理 [!DNL GPG] 鍵，或 [!UICONTROL 子網域] 和 [!UICONTROL 憑證].
+[!UICONTROL 控制面板]可讓Adobe Campaign管理員監視關鍵資產並執行管理工作，例如依執行個體管理[!DNL SFTP]儲存空間、管理[!DNL GPG]金鑰或[!UICONTROL 子網域]及[!UICONTROL 憑證]。
 
 本文說明如何存取控制面板，以及使用控制面板的先決條件。
 
