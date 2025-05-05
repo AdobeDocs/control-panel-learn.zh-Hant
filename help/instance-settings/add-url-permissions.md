@@ -23,4 +23,4 @@ ht-degree: 48%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
-如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html)。
+如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=zh-Hant)。
