@@ -24,6 +24,6 @@ ht-degree: 47%
 
 瞭解如何使用[!DNL Control Panel]監視執行個體的資料庫使用情況。
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448851?learn=on&captions=chi_hant){transcript=true}
 
 如需資料庫監視的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=zh-Hant)。

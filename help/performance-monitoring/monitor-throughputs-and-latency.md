@@ -22,7 +22,7 @@ ht-degree: 0%
 
 瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444748/?learn=on&captions=chi_hant){transcript=true}
 
 ## 額外資源
 

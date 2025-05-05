@@ -34,6 +34,6 @@ Adobe Campaign [!UICONTROL 控制面板]可以讓您將子網域完全委派給 
 
 以下影片示範如何委派子網域。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430245?learn=on&captions=chi_hant){transcript=true}
 
 如需進一步了解續訂子網域的 SSL 憑證的更多資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hant)。
