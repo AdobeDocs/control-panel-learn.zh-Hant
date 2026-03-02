@@ -29,4 +29,4 @@ ht-degree: 71%
 * [有關輸送量和延時監視的控制面板檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=zh-Hant#)
 * [OOTB交付儀表板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=zh-Hant)
 * [OOTB存取異動訊息傳送報告（僅限Campaign v7）](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=zh-Hant)
-* [關於傳遞的最佳實務](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [關於傳遞的最佳實務](https://experienceleague.adobe.com/zh-hant/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
