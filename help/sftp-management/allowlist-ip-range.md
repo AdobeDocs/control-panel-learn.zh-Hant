@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 瞭解如何在允許清單中加入 IP 位址範圍。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444647?learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}

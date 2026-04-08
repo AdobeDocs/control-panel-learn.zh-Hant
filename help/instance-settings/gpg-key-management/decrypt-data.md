@@ -11,15 +11,16 @@ role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # 解密資料
 
-「控制面板」可以讓您使用公開/私密金鑰組解密傳入 Adobe Campaign 執行個體的外部資料。瞭解如何建立公開金鑰，並將其匯入及安裝於 [!DNL Campaign] 執行個體，以解密傳入的資料。
+「控制面板」可以讓您使用公開/私密金鑰組解密傳入 Adobe Campaign 執行個體的外部資料。
+瞭解如何建立公開金鑰，並將其匯入及安裝於 [!DNL Campaign] 執行個體，以解密傳入的資料。
 
 ## Adobe Campaign Standard
 

@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 81%
+workflow-type: ht
+source-wordcount: '122'
+ht-degree: 100%
 
 ---
 
 # 產生 SSH 金鑰
 
-您必須能夠產生SSH金鑰，才能將其新增至「控制面板」。
+您必須能夠生成 SSH 金鑰，才能將其新增至 [控制面板]。
 
 ## 存取控制面板 SFTP 管理
 

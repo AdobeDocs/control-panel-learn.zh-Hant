@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 97%
 + 執行個體設定 {#instance-settings}
    + [加入允許清單 IP 地址](/help/instance-settings/allowlist-ip-adresses.md)
    + [新增 URL 權限](/help/instance-settings/add-url-permissions.md)
-   + GPG金鑰管理 {#gpg-key-management}
+   + GPG 金鑰管理 {#gpg-key-management}
       + [GPG 金鑰管理 - 概觀](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [產生並安裝用於資料加密的 GPG 金鑰](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [使用 GPG 金鑰加密資料](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
