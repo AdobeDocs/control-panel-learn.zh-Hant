@@ -24,4 +24,4 @@ ht-degree: 100%
 
 瞭解如何在允許清單中加入 IP 位址範圍。
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444647?captions=chi_hant&learn=on){transcript=true}
