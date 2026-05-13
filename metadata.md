@@ -1,23 +1,24 @@
 ---
 cloud: Experience Cloud
 solution: Campaign
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
 product: Campaign
 landing-page-name: Campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/control-panel-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/control-panel-learn.en
 index: true
-source-git-commit: 87443cf600da77eb3b39a2a28806bf71d091b808
+source-git-commit: 11a9befaaff43aab1f82be47c99da8302d1272e5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: 72
+ht-degree: 91%
 
 ---
 
 
-# 內部使用的中繼資料
+# 內部專用中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將以上資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 若您想針對任何使用者指南，變更 metadata.md 的內容，請開啟任何 TOC.md 檔案，就能變更資料。
 
-請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**型別**&#x200B;的有效值清單。
+請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=zh-Hant)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**類型**&#x200B;的有效值清單。
