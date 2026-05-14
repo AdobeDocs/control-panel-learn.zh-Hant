@@ -28,4 +28,4 @@ ht-degree: 100%
 
 瞭解如何使用「控制面板」中的 CNAME 來設定並提交子網域。
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450135?captions=chi_hant&learn=on){transcript=true}
