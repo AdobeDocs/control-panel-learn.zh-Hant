@@ -10,16 +10,21 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/86clW-Yx8dYHVgCQUo3eIWiZTckuD1zlVr-AcMbpUgs
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 189
+ht-degree: 94%
 
 ---
 
 # 加入允許清單 IP 位址
 
-您可以使用「控制面板」列出 IP 位址範圍，以便將新的連線設定到您的執行個體。依預設，Adobe Campaign 執行個體無法從各種 IP 位址進行存取。因此，必須將 IP 位址加入允許清單：
+您可以使用「控制面板」列出 IP 位址範圍，以便將新的連線設定到您的執行個體。 依預設，Adobe Campaign 執行個體無法從各種 IP 位址進行存取。 因此，必須將 IP 位址加入允許清單：
 
 * 允許從此 IP 位址存取 [!DNL Campaign] 執行個體
 * 將 API 連接至您的訊息中心或行銷執行個體
@@ -28,8 +33,8 @@ ht-degree: 0%
 
 若要存取「控制面板」的「子網域管理」，請前往：
 
-* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > 解決方案選擇器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]** 卡片 > **執行個體設定** 卡片
-or
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) >解決方案選擇器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;卡片> **執行個體設定**&#x200B;卡片
+或
 * 直接從 URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## 將 IP 範圍新增至執行個體的允許清單

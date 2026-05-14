@@ -9,10 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 353
+ht-degree: 70%
 
 ---
 
@@ -23,23 +28,23 @@ ht-degree: 100%
 ### 症狀：無法登入 Experience Cloud
 
 **該做什麼：**
-使用者需要找到其 IMS Org ID (xxx)。 系統管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔「Campaign-xxx-Admins」。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
+使用者必須找到其IMS組織ID (xxx)。 系統管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔「Campaign-xxx-Admins」。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
 ### 症狀：使用者看不到 Experience Cloud 首頁存取[!UICONTROL 控制面板]的連結
 
 **原因：**
-使用者直到新增為產品設定檔 _Campaign-xxx-Administrators/Admin_ 的使用者後，才能看到連結。
+使用者直到新增為產品設定檔_Campaign-xxx-Administrators/Admin_&#x200B;的使用者後，才能看到連結。
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
+管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔_Campaign-xxx-Admins_。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
 
 ### 症狀：執行個體未列於[!UICONTROL 控制面板]
 
 **原因：**
-可能是，使用者需要新增為消失的執行個體的*使用者* 產品設定檔&#x200B;_Campaign-xxx-Administrators/Admin_
+可能是，使用者必須新增為消失的執行個體的*使用者*&#x200B;產品設定檔&#x200B;_Campaign-xxx-Administrators/Admin_
 
 **該做什麼：**
-管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為「使用者」。
+管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔_Campaign-xxx-Admins_。 如果使用者是所有執行個體的管理員，則他們仍需將自己新增為「使用者」。
 
 ### 有用的影片
 
