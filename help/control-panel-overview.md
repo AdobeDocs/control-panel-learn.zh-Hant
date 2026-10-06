@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
+TQID: 'https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 259
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '259'
 ht-degree: 100%
-
 ---
-
 # 控制面板教學課程
 
 Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
@@ -46,7 +52,9 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>將子網域委派至 Adobe Campaign (影片)</strong></div>
+    <strong>將子網域委派至 Adobe Campaign (影片)</strong>
+    </a>
+    </div>
     <p>
     <em>瞭解如何將子網域完全委派至 Adobe Campaign</em>
     <p>
@@ -57,7 +65,9 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT 記錄管理 (影片)</strong></div>
+    <strong>Google TXT 記錄管理 (影片)</strong>
+    </a>
+    </div>
     <p>
     <em>您可以透過 Campaign 控制面板，將 Google TXT 網站驗證記錄新增至所有用於傳送電子郵件至 Gmail 地址的子網域。</em>
     <p>
@@ -68,7 +78,9 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>連結到 SFTP 伺服器</strong></div>
+    <strong>連結到 SFTP 伺服器</strong>
+    </a>
+    </div>
     <p>
     <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
     <p>
